@@ -1,0 +1,1 @@
+Echo >> 'BCG_Internship'
